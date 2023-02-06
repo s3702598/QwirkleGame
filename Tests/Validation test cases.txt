@@ -1,0 +1,9 @@
+Validation test cases
+
+1. endGame - Ends game.
+2. validation1 - Check for use of symbols when entering player name.
+3. validation2 - check for correct format of game entered.
+4. validation3 - Check for capital letters when entering player name
+5. validation4 - Check for correct format - should be 'place G5 at C4'
+6. validation7 - Check for correct format - should be 'replace P6'
+
